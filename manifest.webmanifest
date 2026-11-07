@@ -1,6 +1,6 @@
 {
   "name": "musics",
-  "short_name": "Musisc",
+  "short_name": "Musice",
   "description": "Pemutar musik dengan tampilan kaca, lirik berjalan, dan dukungan YouTube.",
   "start_url": "./pt_3.html",
   "scope": "./",
