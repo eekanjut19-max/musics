@@ -2,7 +2,7 @@
   "name": "musics",
   "short_name": "Musisc",
   "description": "Pemutar musik dengan tampilan kaca, lirik berjalan, dan dukungan YouTube.",
-  "start_url": "./index.html",
+  "start_url": "./pt_3.html",
   "scope": "./",
   "id": "./index.html",
   "display": "standalone",
